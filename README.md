@@ -8,7 +8,7 @@ Panda3D is licensed under the Modified BSD License.  See the LICENSE file for
 more details.
 
 # 🔨 Building
-Below you will find anything you need to know. If you want to download a build you can do it via CurseForge. 
+Below you will find anything you need to know.
 
 ## 💻 Windows
 
